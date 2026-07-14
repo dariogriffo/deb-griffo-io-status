@@ -1,22 +1,20 @@
 [
   {
-    "name": "Debian Package Repository (Trixie)",
+    "name": "Debian Package Repository",
     "url": "https://deb.griffo.io/apt/dists/trixie/InRelease",
     "icon": "https://icons.duckduckgo.com/ip3/deb.griffo.io.ico",
-    "slug": "debian-package-repository-trixie",
-    "status": "down",
-    "uptime": "55.83%",
-    "uptimeDay": "55.83%",
-    "uptimeWeek": "55.83%",
-    "uptimeMonth": "55.83%",
-    "uptimeYear": "55.83%",
+    "slug": "debian-package-repository",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-07-14": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
