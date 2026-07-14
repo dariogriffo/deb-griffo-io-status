@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.deb.griffo.io): <!--live status--> **🟥 Complete outage**
 
-This repository contains the open-source uptime monitor and status page for [Dario Griffo](https://blog.griffo.io), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Dario Griffo](https://deb.griffo.io), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/dariogriffo/status/workflows/Uptime%20CI/badge.svg)](https://github.com/dariogriffo/status/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/dariogriffo/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/dariogriffo/status/actions/workflows/response-time.yml)
