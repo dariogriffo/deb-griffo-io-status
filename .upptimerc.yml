@@ -1,10 +1,10 @@
 owner: dariogriffo
-repo: deb-griffo-io-status # Or whatever you named your status repo
+repo: deb-griffo-io-status
 sites:
   - name: Debian Package Repository (Trixie)
     url: https://deb.griffo.io/apt/dists/trixie/InRelease
     method: GET
     expectedStatus: 200
 status-website:
-  cname: status.deb.griffo.io # Optional: Set this up if you want a custom domain
+  cname: status.deb.griffo.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/assets/icon.svg
