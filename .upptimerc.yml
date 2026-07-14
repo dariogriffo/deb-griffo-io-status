@@ -2,7 +2,7 @@ owner: dariogriffo
 repo: status # Or whatever you named your status repo
 sites:
   - name: Debian Package Repository (Trixie)
-    url: https://deb.griffo.io/apt/dists/trixie/InRelease
+    url: https://debian.griffo.io/apt/dists/trixie/InRelease
     method: GET
     expectedStatus: 200
 status-website:
