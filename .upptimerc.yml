@@ -1,5 +1,5 @@
 owner: dariogriffo
-repo: status # Or whatever you named your status repo
+repo: deb-griffo-io-status # Or whatever you named your status repo
 sites:
   - name: Debian Package Repository (Trixie)
     url: https://debian.griffo.io/apt/dists/trixie/InRelease
